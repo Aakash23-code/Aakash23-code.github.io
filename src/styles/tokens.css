@@ -1,0 +1,27 @@
+
+:root {
+  /* Brand colours */
+  --color-primary: #0D3B66;
+  --color-secondary: #1B5E3C;
+  --color-background: #E8F3FB;
+  --color-surface: #F5F1E8;
+  --color-accent: #8B3A3A;
+
+  /* Text */
+  --color-heading: #10233F;
+  --color-body: #34445A;
+  --color-muted: #64748B;
+
+  /* Typography */
+  --font-heading: "Manrope", sans-serif;
+  --font-body: "Inter", sans-serif;
+
+  /* Layout */
+  --container-width: 1240px;
+  --section-padding: 100px;
+  --radius-card: 20px;
+
+  /* Effects */
+  --shadow-card: 0 12px 35px rgba(13, 59, 102, 0.08);
+  --transition: 250ms ease;
+}
